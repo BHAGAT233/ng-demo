@@ -1,2 +1,3 @@
 # ng-demo
-this my second repositiry
+This is my second repositiry
+Author - Bantu 
